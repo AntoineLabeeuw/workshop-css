@@ -1,0 +1,28 @@
+body{
+    background-color: #EFECCA;
+    font-family: Arial, Helvetica;
+}
+h1 {
+    color:  #C03000;
+}
+h2{
+    color: #4BB5C1;
+}
+
+li {
+    background-color: #C03000;
+    display: inline;
+    padding: 10px;
+    border: solid 3px #660000;
+}
+li:hover, li:active{
+    background-color: #009900;
+}
+li > a {
+    color: white;
+}
+
+a{
+    color:  #0000FF;
+    text-decoration: none;
+}
