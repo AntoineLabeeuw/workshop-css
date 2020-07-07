@@ -1,0 +1,26 @@
+body {
+    background-color:#000099;
+    font-family: Arial, Arial, Helvetica;
+    text-align: center;
+  }
+h1 {
+    color: white;
+}
+
+.item {
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+    list-style-type: none;
+	margin-bottom: 10px;
+}
+input[type="text"] {
+    /* padding pour rendre le bouton plus grand */
+    padding: 10px;
+    border-radius: 3px;
+}
+input[type="submit"]{
+    /* padding pour rendre le bouton plus grand */
+    padding: 10px;
+    border-radius: 8px;
+}
